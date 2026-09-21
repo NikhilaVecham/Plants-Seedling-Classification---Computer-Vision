@@ -1,12 +1,36 @@
 # 🌱 Plant Seedlings Classification using CNN
 
+A computer vision project that classifies plant seedling images into 12 different plant species using Convolutional Neural Networks (CNNs), image preprocessing, and data augmentation.
+
+The project demonstrates an end-to-end deep learning workflow, including exploratory data analysis, image preprocessing, model development, model improvement, and performance evaluation.
+
 ## 📌 Project Overview
 
-This computer vision project uses **Convolutional Neural Networks (CNNs)** to classify plant seedlings into **12 different species**. The goal is to demonstrate how deep learning can automate plant identification and potentially reduce manual effort in agriculture.
+Identifying plant species at the seedling stage can be challenging because many plants have very similar visual characteristics.
+
+The objective of this project is to develop a deep learning image classification model capable of automatically identifying the species of a plant seedling from an image.
+
+Such computer vision systems could potentially support agricultural applications such as:
+
+* Automated plant identification
+* Weed detection
+* Crop monitoring
+* Precision agriculture
+* Reduction of manual plant inspection
 
 ## 🎯 Objective
 
-Build a CNN-based image classification model capable of identifying the species of a plant seedling from an image.
+Build and evaluate a multi-class image classification model that predicts the species of a plant seedling from an input image.
+
+The project focuses on:
+
+* Image preprocessing
+* Exploratory analysis of image data
+* Convolutional Neural Networks
+* Data augmentation
+* Handling class imbalance considerations
+* Multi-class model evaluation
+* Analysis of model generalization
 
 ## 📊 Dataset
 
